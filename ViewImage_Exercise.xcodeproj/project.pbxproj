@@ -14,6 +14,7 @@
 		AA97034D217CB3DC0082ECC7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AA97034B217CB3DC0082ECC7 /* LaunchScreen.storyboard */; };
 		AA970358217CB3DC0082ECC7 /* ViewImage_ExerciseTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA970357217CB3DC0082ECC7 /* ViewImage_ExerciseTests.swift */; };
 		AA970363217CB3DC0082ECC7 /* ViewImage_ExerciseUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA970362217CB3DC0082ECC7 /* ViewImage_ExerciseUITests.swift */; };
+		AA970371217CB4F90082ECC7 /* car1.png in Resources */ = {isa = PBXBuildFile; fileRef = AA970370217CB4F80082ECC7 /* car1.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		AA97035E217CB3DC0082ECC7 /* ViewImage_ExerciseUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ViewImage_ExerciseUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AA970362217CB3DC0082ECC7 /* ViewImage_ExerciseUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewImage_ExerciseUITests.swift; sourceTree = "<group>"; };
 		AA970364217CB3DC0082ECC7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AA970370217CB4F80082ECC7 /* car1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = car1.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				AA970342217CB3DB0082ECC7 /* AppDelegate.swift */,
 				AA970344217CB3DB0082ECC7 /* ViewController.swift */,
+				AA970370217CB4F80082ECC7 /* car1.png */,
 				AA970346217CB3DB0082ECC7 /* Main.storyboard */,
 				AA970349217CB3DC0082ECC7 /* Assets.xcassets */,
 				AA97034B217CB3DC0082ECC7 /* LaunchScreen.storyboard */,
@@ -231,6 +234,7 @@
 			files = (
 				AA97034D217CB3DC0082ECC7 /* LaunchScreen.storyboard in Resources */,
 				AA97034A217CB3DC0082ECC7 /* Assets.xcassets in Resources */,
+				AA970371217CB4F90082ECC7 /* car1.png in Resources */,
 				AA970348217CB3DB0082ECC7 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
